@@ -1,4 +1,4 @@
-# 📚 Curriculum Mesh 
+# 📚 Program Structure
 
 An interactive curriculum based on the semesters of my major. This is a project that became a trend in Chile (at least) in 2025.
 
